@@ -1,0 +1,44 @@
+\documentclass{article}
+%\usepackage[T1]{fontenc}
+%\usepackage{tgbonum}
+\usepackage{titling}
+
+\title{Last Words}
+\author{of David the son of Jesse}
+\date{\vspace{-5ex}}
+
+\begin{document}
+\maketitle
+
+\begin{center}
+\noindent
+David the son of Jesse declares,\\
+The man who was raised on high,\\
+The anointed of the God of Jacob\\
+And the sweet psalmist of Israel, declares,\\[\baselineskip]
+
+The Spirit of the Lord spoke through me,\\
+And His word was on my tongue.\\
+The God of Israel said it;\\
+The Rock of Israel spoke to me:\\[\baselineskip]
+
+He who rules over mankind righteously,\\
+Who rules in the fear of God,\\
+Is like the light of the morning when the sun rises,\\
+A morning without clouds,\\
+When the fresh grass springs out of the earth\\
+From sunshine after rain.\\[\baselineskip]
+
+Is my house not indeed so with God?\\
+For He has made an everlasting covenant with me,\\
+Properly ordered in all things, and secured;\\
+For will He not indeed make\\
+All my salvation and all my delight grow?\\[\baselineskip]
+
+But the worthless, every one of them, are like scattered thorns,\\
+Because they cannot be taken in hand;\\
+Instead, the man who touches them\\
+Must be armed with iron and the shaft of a spear,\\
+And they will be completely burned with fire in their place.\\
+\end{center}
+\end{document}
